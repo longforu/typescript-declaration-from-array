@@ -1,0 +1,15 @@
+{
+  "name": "typescript-declaration-from-array",
+  "version": "1.0.0",
+  "description": "Create a TypeScript declaration from a list of unknown objects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Long Tran",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.6.2"
+  }
+}
